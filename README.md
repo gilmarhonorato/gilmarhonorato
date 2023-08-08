@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gilmarhonorato
-- 👀 I’m interested in  aprender utilizar o  git..
-- 🌱 I’m currently learning ...JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 44- 9 9881-4056 WhatsApp e Telegram
+👋 Oi, eu sou @gilmarhonorato
+👀 Estou interessado em aprender utilizar o git..
+🌱 Atualmente estou aprendendo ...
+💞️ Procuro colaborar em...
+📫 Como me encontrar... 44- 9 9881-4056 WhatsApp e Telegram
 
 <!---
 gilmarhonorato/gilmarhonorato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
