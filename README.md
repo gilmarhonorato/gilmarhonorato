@@ -1,11 +1,14 @@
-👋 Oi, eu sou @gilmarhonorato
-👀 Estou interessado em aprender utilizar o git
-🌱 Atualmente estou aprendendo
-💞️ Procuro colaborar em ....
-📫 Como me encontrar... 44- 9 9881-4056 WhatsApp e Telegram
+👨‍💻 Sobre Mim
+Sou um profissional de TI com mais de 16 anos de experiência, consolidando minha carreira na intersecção entre Estratégia de Negócios e Desenvolvimento de Software. Atualmente, atuo como Business Relationship Manager (BRM), traduzindo necessidades complexas de negócio em soluções tecnológicas eficientes.
 
+Minha jornada técnica evoluiu do suporte e infraestrutura para o desenvolvimento e análise de dados. Sou entusiasta da cultura ágil e busco constantemente otimizar processos através de código limpo e arquiteturas modernas.
 
-<!---
-gilmarhonorato/gilmarhonorato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Tech Stack
+Linguagens & Desenvolvimento
+Progress ABL (Advanced Business Language): Especialista em lógica de ERP e regras de negócio complexas.
+
+Flutter & Dart: Desenvolvendo aplicações mobile modernas e reativas (cursando Pós-Graduação na área).
+
+SQL Server: Manipulação de dados, consultas complexas e otimização de performance.
+
+Web Basics: Noções de integração e consumo de APIs.
