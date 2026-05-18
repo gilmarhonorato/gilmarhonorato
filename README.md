@@ -1,14 +1,8 @@
-👨‍💻 Sobre Mim
-Sou um profissional de TI com mais de 16 anos de experiência, consolidando minha carreira na intersecção entre Estratégia de Negócios e Desenvolvimento de Software. Atualmente, atuo como Business Relationship Manager (BRM), traduzindo necessidades complexas de negócio em soluções tecnológicas eficientes.
+Ola, sou profissional de TI, com experiencia em produtos TOTVS- linha Datasul, Protheuse e Fluig.
+Atuei 16 anos no agronegocio, realizando suporte a usuarios e desenvolvimento de sistemas que ajudaram no dia a dia dos usuarios chaves.
 
-Minha jornada técnica evoluiu do suporte e infraestrutura para o desenvolvimento e análise de dados. Sou entusiasta da cultura ágil e busco constantemente otimizar processos através de código limpo e arquiteturas modernas.
+Sou entusiasta da cultura ágil e busco constantemente otimizar processos através de código limpo e arquiteturas modernas.
 
-🚀 Tech Stack
-Linguagens & Desenvolvimento
-Progress ABL (Advanced Business Language): Especialista em lógica de ERP e regras de negócio complexas.
+Atualmente estou focado em construir uma empresa de desenvolvimento de software e prestacao de servicoem Tecnologia da Informacao, em parceria com grande colega de trabalho.
 
-Flutter & Dart: Desenvolvendo aplicações mobile modernas e reativas (cursando Pós-Graduação na área).
-
-SQL Server: Manipulação de dados, consultas complexas e otimização de performance.
-
-Web Basics: Noções de integração e consumo de APIs.
+Estou realizando uma POS em aplicativos Moveis pela UTFPR 👨‍💻.
